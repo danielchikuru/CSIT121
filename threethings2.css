@@ -1,0 +1,22 @@
+body { font-size: 150%;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	color: #ADD8E6;
+	background-image: url(picture5.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+		}
+h1 { font-style: italic;}
+
+.center {display: block;
+margin-left: auto;
+margin-right: auto;
+height: 50%;
+width: 50%;}
+
+footer {
+   position: static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
